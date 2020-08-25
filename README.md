@@ -7,16 +7,14 @@
 3. 今日と明日の天気の表示
 
 # 環境
-#### 言語
-python(3.8.5)
-#### データベース
-SQlite3
- 
++ 言語 ・・・　python(3.8.5)
++ データベース　・・・　SQlite3
+
 # ライブラリ
 + requests(2.24.0)
 + BeautifulSoup4(4.9.1)
-+ calendar　・・・標準ライブラリ
-+ datetime　・・・標準ライブラリ
++ calendar　・・・　標準ライブラリ
++ datetime　・・・　標準ライブラリ
 
 # インストール
 pythonをインストール後コマンドプロンプトに下記を貼り付ける
